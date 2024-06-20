@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.a59119a6.css",
-    "main.js": "/static/js/main.0e0cf2a0.js",
+    "main.css": "/static/css/main.eadab34f.css",
+    "main.js": "/static/js/main.94949550.js",
     "static/js/453.4297e0f3.chunk.js": "/static/js/453.4297e0f3.chunk.js",
     "static/media/Table.jpg": "/static/media/Table.46294b56cc094745ae2c.jpg",
     "static/media/banner4.jpg": "/static/media/banner4.9bbec8acb6d6df4feb15.jpg",
@@ -49,9 +49,11 @@
     "static/media/bed8.jpg": "/static/media/bed8.a7db304a8316fb33a0b2.jpg",
     "static/media/chair18.jpg": "/static/media/chair18.c8b087e5c5e737ac9e50.jpg",
     "static/media/chair13.jpg": "/static/media/chair13.b001b893eb15fd345807.jpg",
+    "static/media/banner4_11zon.jpg": "/static/media/banner4_11zon.d18fd3c5295d66bc862c.jpg",
     "static/media/sofa17.jpg": "/static/media/sofa17.204674319028748c769b.jpg",
     "static/media/table17.jpg": "/static/media/table17.c6abc07355e583b24365.jpg",
     "static/media/sofa14.jpg": "/static/media/sofa14.cbf1777ff3757cd9cb07.jpg",
+    "static/media/banner2_11zon.jpeg": "/static/media/banner2_11zon.b91426fb28e0c713a4cb.jpeg",
     "static/media/sofa18.jpg": "/static/media/sofa18.cdbefb8a499908aebadb.jpg",
     "static/media/sofa9.jpg": "/static/media/sofa9.624b55ea2f205155516e.jpg",
     "static/media/chair8.jpg": "/static/media/chair8.797e4d8954f3ab52a0aa.jpg",
@@ -87,6 +89,7 @@
     "static/media/chair9.jpg": "/static/media/chair9.054edacc07e2c02ce333.jpg",
     "static/media/chair3.jpg": "/static/media/chair3.1924b297ed542de679d0.jpg",
     "static/media/sofa19.jpg": "/static/media/sofa19.900d94335ad68f558d81.jpg",
+    "static/media/banner3_11zon.jpeg": "/static/media/banner3_11zon.60d0b2f7ab6865ffbfa8.jpeg",
     "static/media/chair5.jpg": "/static/media/chair5.bba8a1674424ca8c308c.jpg",
     "static/media/table19.jpg": "/static/media/table19.12a2149ab7d12323f6b1.jpg",
     "static/media/chair4.jpg": "/static/media/chair4.869590320b6e0e179dd1.jpg",
@@ -94,12 +97,12 @@
     "static/media/table8.jpg": "/static/media/table8.e04671de5eae7690a7e1.jpg",
     "static/media/heart.jpg": "/static/media/heart.9e73babe7a7fc35088d5.jpg",
     "index.html": "/index.html",
-    "main.a59119a6.css.map": "/static/css/main.a59119a6.css.map",
-    "main.0e0cf2a0.js.map": "/static/js/main.0e0cf2a0.js.map",
+    "main.eadab34f.css.map": "/static/css/main.eadab34f.css.map",
+    "main.94949550.js.map": "/static/js/main.94949550.js.map",
     "453.4297e0f3.chunk.js.map": "/static/js/453.4297e0f3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a59119a6.css",
-    "static/js/main.0e0cf2a0.js"
+    "static/css/main.eadab34f.css",
+    "static/js/main.94949550.js"
   ]
 }
